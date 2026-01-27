@@ -1,0 +1,33 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-01-27",
+  "description": "Configuração de domínios para monitoramento Keep-Alive",
+  "domains": [
+    {
+      "url": "https://tokens.sentecamaldita.com.br",
+      "interval": 120,
+      "description": "Tokens API"
+    },
+    {
+      "url": "https://keepalive-nzb6.onrender.com/",
+      "interval": 120,
+      "description": "Keep-Alive Service"
+    },
+    {
+      "url": "https://portal.caetes.art.br/progresso_edital",
+      "interval": 120,
+      "description": "Portal Caetés"
+    },
+    {
+      "url": " https://espelho-ifal-sigaa.onrender.com/login",
+      "interval": 120,
+      "description": "Espelho sigaa-ifal"
+    }
+  ],
+  "settings": {
+    "min_interval": 30,
+    "max_interval": 3600,
+    "default_interval": 120,
+    "config_refresh_interval": 300
+  }
+}
