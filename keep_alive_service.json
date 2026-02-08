@@ -1,32 +1,37 @@
 {
-  "version": "1.0.0",
-  "last_updated": "2026-01-27",
-  "description": "Configuração de domínios para monitoramento Keep-Alive",
+  "version": "1.1.0",
+  "last_updated": "2026-02-08",
+  "description": "Configuração otimizada de domínios para monitoramento Keep-Alive",
   "domains": [
     {
       "url": "https://tokens.sentecamaldita.com.br",
       "interval": 120,
-      "description": "Tokens API"
+      "description": "Tokens API",
+      "expected_status": 200
     },
     {
       "url": "https://keepalive-nzb6.onrender.com/",
       "interval": 120,
-      "description": "Keep-Alive Service"
+      "description": "Keep-Alive Service",
+      "expected_status": 200
     },
     {
-      "url": "https://portal.caetes.art.br/progresso_edital",
+      "url": "https://portal.caetés.art.br/progresso_edital",
       "interval": 120,
-      "description": "Portal Caetés"
+      "description": "Portal Caetés",
+      "expected_status": 200
     },
     {
-      "url": " https://espelho-ifal-sigaa.onrender.com/login",
+      "url": "https://espelho-ifal-sigaa.onrender.com/login",
       "interval": 120,
-      "description": "Espelho sigaa-ifal"
+      "description": "Espelho sigaa-ifal",
+      "expected_status": 200
     },
     {
-      "url": " https://pretitudes.onrender.com",
+      "url": "https://pretitudes.onrender.com",
       "interval": 120,
-      "description": "Pretitudes"
+      "description": "Pretitudes",
+      "expected_status": 200
     }
   ],
   "settings": {
