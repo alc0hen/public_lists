@@ -16,7 +16,7 @@
       "expected_status": 200
     },
     {
-      "url": "https://portal.caetés.art.br/progresso_edital",
+      "url": "https://portal.caetes.art.br/progresso_edital",
       "interval": 120,
       "description": "Portal Caetés",
       "expected_status": 200
