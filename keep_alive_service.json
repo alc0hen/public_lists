@@ -22,7 +22,12 @@
       "url": " https://espelho-ifal-sigaa.onrender.com/login",
       "interval": 120,
       "description": "Espelho sigaa-ifal"
-    }
+    },
+    {
+      "url": " https://pretitudes.onrender.com",
+      "interval": 120,
+      "description": "Pretitudes"
+    },
   ],
   "settings": {
     "min_interval": 30,
