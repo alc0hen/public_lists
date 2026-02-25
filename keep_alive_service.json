@@ -22,9 +22,9 @@
       "expected_status": 200
     },
     {
-      "url": "https://espelho-ifal-sigaa.onrender.com/login",
+      "url": "https://boletim-app.onrender.com",
       "interval": 120,
-      "description": "Espelho sigaa-ifal",
+      "description": "Boletim app",
       "expected_status": 200
     },
     {
