@@ -28,6 +28,12 @@
       "expected_status": 200
     },
     {
+      "url": "https://blog.caetes.art.br/",
+      "interval": 120,
+      "description": "Caetés",
+      "expected_status": 200
+    },
+    {
       "url": "https://pretitudes.onrender.com",
       "interval": 120,
       "description": "Pretitudes",
