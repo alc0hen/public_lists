@@ -10,8 +10,14 @@
       "expected_status": 200
     },
     {
-      "url": "https://keepalive-nzb6.onrender.com/",
+      "url": "https://cabritos.onrender.com/",
       "interval": 120,
+      "description": "Cabritos",
+      "expected_status": 200
+    },
+    {
+      "url": "https://keepalive-nzb6.onrender.com/",
+      "interval": 120, 
       "description": "Keep-Alive Service",
       "expected_status": 200
     },
