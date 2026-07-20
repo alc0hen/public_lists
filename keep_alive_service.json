@@ -10,21 +10,15 @@
       "expected_status": 200
     },
     {
-      "url": "https://cabritos.onrender.com/",
+      "url": "https://redis-server-render.onrender.com/",
       "interval": 120,
-      "description": "Cabritos",
+      "description": "redis_server",
       "expected_status": 200
     },
     {
       "url": "https://keepalive-nzb6.onrender.com/",
       "interval": 120, 
       "description": "Keep-Alive Service",
-      "expected_status": 200
-    },
-    {
-      "url": "https://api-catarse.onrender.com/",
-      "interval": 120,
-      "description": "api catarse 1",
       "expected_status": 200
     },
     {
