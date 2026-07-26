@@ -38,6 +38,12 @@
       "interval": 120,
       "description": "Pretitudes",
       "expected_status": 200
+    },
+    {
+      "url": "https://sigaa-api-python.onrender.com/",
+      "interval": 120,
+      "description": "sigaa_api_python",
+      "expected_status": 200
     }
   ],
   "settings": {
